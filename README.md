@@ -1,2 +1,2 @@
 # Iara
-Inteligencia Artificial 
+Inteligencia Artificial Totalmente Feito em Python
